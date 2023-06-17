@@ -1,0 +1,10 @@
+:root{
+    --background-color: #ccc;
+    --titulo-destaque: 18px;
+    --views-destaque: 14px;
+    --paragrafo-destaque: 16px;
+    --titulo-video: 14px;
+    --name-video: 11px;
+    --views-video: 11px;
+    --data-video: 11px;
+}
